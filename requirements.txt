@@ -1,0 +1,8 @@
+Flask
+firebase-admin
+torch
+torchvision
+facenet-pytorch
+Pillow
+numpy
+opencv-python
