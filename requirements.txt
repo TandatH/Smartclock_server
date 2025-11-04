@@ -1,8 +1,7 @@
-Flask
-firebase-admin
-torch
-torchvision
-facenet-pytorch
-Pillow
-numpy
-opencv-python
+flask==3.0.3
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+-f https://download.pytorch.org/whl/torch_stable.html
+firebase-admin==6.5.0
+pillow==10.3.0
+numpy==1.26.4
